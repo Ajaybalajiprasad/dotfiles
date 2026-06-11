@@ -1,1 +1,1 @@
-Sway Minial config
+Sway Minimal config
